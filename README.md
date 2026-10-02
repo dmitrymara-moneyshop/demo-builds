@@ -9,4 +9,6 @@
 - Установленное приложение само проверяет манифест последней версии
   (`https://github.com/dmitrymara-moneyshop/demo-builds/releases/latest/download/update.json`), показывает, что изменилось,
   и по кнопке «Обновить» скачивает APK, сверяет контрольную сумму и передаёт его установщику Android.
+- Первая установка (версия 2.1.0, дальше приложение обновится само):
+  https://github.com/dmitrymara-moneyshop/demo-builds/releases/download/v2.1.0/demo-app-v2.1.0.apk
 - Пререлиз `qa` — служебные файлы автоматической проверки, не для установки.
